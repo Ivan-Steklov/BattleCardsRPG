@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4343f326c594aed4d9669af91d7ba6da, type: 3}
   m_Name: Mage
   m_EditorClassIdentifier: Assembly-CSharp::Game.Data.CardData
-  cardName: 
+  cardName: 'Mage '
   icon: {fileID: 0}
   rarity: 0
-  attribute: 0
-  attackType: 0
-  leadershipCost: 0
-  health: 0
-  damage: 0
+  attribute: 2
+  attackType: 2
+  leadershipCost: 3
+  health: 30
+  damage: 25
   attackSpeed: 1
   description: 

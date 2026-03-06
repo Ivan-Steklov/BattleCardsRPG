@@ -1,0 +1,15 @@
+ПРОЕКТ BattleCardsRPG (Unity 2D, MobilePC WebGL)
+ЖАНР Card Battler + Merge (похоже на Heroes 3 + Top War)
+
+ТЕКУЩИЙ ЭТАП Базовая архитектура карт.
+РЕАЛИЗОВАНО
+1. Git репозиторий настроен.
+2. Скрипты данных (ScriptableObject)
+   - GameEnums.cs (Rarity, UnitAttribute, AttackType)
+   - CardData.cs (Хранит статы HP, Damage, Icon, Prefab)
+
+АРХИТЕКТУРА
+- ScriptsDataCardData.cs Основной конфиг карты.
+- ResourcesCards Тут лежат ассеты карт (SO).
+
+СЛЕДУЮЩАЯ ЗАДАЧА Создание визуального префаба карты (UI) и скрипт отображения.
