@@ -33,7 +33,7 @@ namespace Game.UI
             costText.text = data.leadershipCost.ToString();
             
             // 2. Статы (показываем базовые)
-            statsText.text = $"{data.damage} / {data.health}";
+            statsText.text = $"HP: {data.health} | DMG: {data.damage}";
 
             // 3. Цвет рамки в зависимости от редкости
             switch (data.rarity)

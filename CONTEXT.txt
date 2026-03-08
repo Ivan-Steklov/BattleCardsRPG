@@ -13,3 +13,11 @@
 - ResourcesCards Тут лежат ассеты карт (SO).
 
 СЛЕДУЮЩАЯ ЗАДАЧА Создание визуального префаба карты (UI) и скрипт отображения.
+
+Задачи:
+
+Сверстать карту.
+Написать CardDisplay.
+Проверить, что она заполняется данными.
+Сохранить в префаб.
+Git: git add . -> git commit -m "Feat: Created Card UI Prefab and Display script" -> git push.
